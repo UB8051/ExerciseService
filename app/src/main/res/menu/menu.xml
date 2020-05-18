@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/ic_shuffle" android:id="@+id/action_shuffle" android:orderInCategory="1" android:title="Shuffle" app:showAsAction="always"/>
+    <item android:icon="@drawable/ic_stop" android:id="@+id/action_end" android:orderInCategory="2" android:title="End" app:showAsAction="always"/>
+</menu>
